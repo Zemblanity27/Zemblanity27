@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Zemblanity27/Zemblanity27/blob/5d60f6db74e9dbdf2898a08184a45b3721826441/github-header-image.png)
+![MasterHead](https://github.com/Zemblanity27/Zemblanity27/blob/221de630bfb2cb1bc1ced1a2cd94739773e02e0b/github-header-image-2.png)
 <h1 align="center">Hi 👋, I'm Joshua Dizon</h1>
 <h3 align="center">A Mechanical Engineer aspiring to career shift into the Tech industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
