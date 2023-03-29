@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zemblanity27&label=Profile%20views&color=0e75b6&style=flat" alt="zemblanity27" /> </p>
 
 - 🔭 Projects: [Type It!](https://github.com/Zemblanity27/Type-It-/tree/main)
-               [Todo List](https://github.com/Zemblanity27/Todo-List-Laravel-)
+               and [Todo List](https://github.com/Zemblanity27/Todo-List-Laravel-)
 
 - 🌱 I’m currently learning **Javascript**
 
